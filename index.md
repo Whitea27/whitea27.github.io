@@ -4,21 +4,17 @@
 
 ### Course Projects 
 
-[Data Preparation for Modeling](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Loan Data Preparation for Modeling](/DataPrep_page)
 
 ---
 [Forecasting Energy Consumption](https://colab.research.google.com/drive/1PpkgYZ37WCEiRD18M01b-b0WqHOnG_vk)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Reddit Comments Sentiment Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Research Project
 
 [OCR with Image Handling and Captioning](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 - [Project 1 Title](http://example.com/)
