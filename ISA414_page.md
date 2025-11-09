@@ -4,8 +4,8 @@ Our group chose to investigate the sentiment of passengers after an announcement
 
 [Scraping Reddit](https://nbviewer.org/github/Whitea27/whitea27.github.io/blob/main/RedditComments.ipynb)
 
-[Reddit Output](southwest_reddit_comments_noreplies.csv)
+[Reddit Output](https://nbviewer.org/github/Whitea27/whitea27.github.io/blob/main/southwest_reddit_comments_noreplies.csv)
 
-[Scraping Yahoo Finance](YahooFinance.ipynb)
+[Scraping Yahoo Finance](https://nbviewer.org/github/Whitea27/whitea27.github.io/blob/main/YahooFinance.ipynb)
 
 [Project Report (PDF)](ISA_414_Final_Project%20Report.pdf)
