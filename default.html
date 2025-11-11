@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
-   {% if site.google_analytics %}
+   {% include analytics.html %}
+   {% include head.html %}
+   {% include head/custom.html %}
    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
    <script>
       window.dataLayer = window.dataLayer || [];
