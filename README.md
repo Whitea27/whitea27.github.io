@@ -1,55 +1,30 @@
-## Developer Portfolio Landing Page Template
-
-### ⚠️ Project Discontinued ⚠️
-
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+## Welcome!
 
 ---
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hi thanks for checking out my Github. I am a senior business analytics major attending Miami University. 
 
-### Installation
+---
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+### Course Projects
+
+Included in this repo are some projects I have worked on in the past two years in school. I have worked extensivley in data preprocessing, predictive modeling, forecasting, and data analysis. You will find some examples of those projects in this section. 
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also am a part of a $1.5M Safety Immersion and Gamified Hazard Training (SIGHT) research project at Miami University. Working to develop a web-based AR/VR system to train manufacturing workers on multiple machines using a context aware RAG system. Most of my time spent on this project has been in data cleaning, or Optical Character Recognition (OCR) of legacy pdf manuals. 
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other
 
-```markdown
-Syntax highlighted code block
+Here you will find other projects I have been a part of that are not directly related to my technical skills. One example is the Market Feasibility Study I developed during a consulting program sponsored by EY. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
+---
 
 ### References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
