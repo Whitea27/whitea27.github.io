@@ -15,6 +15,8 @@
 ---
 ### Research
 
+[A Multimodal Manufacturing Safety Chatbot: Knowledge Base Design, Benchmark Development, and Evaluation of Multiple RAG Approaches - Published Work](https://arxiv.org/abs/2511.11847)
+
 [OCR with Image Handling and Captioning - Python](/research/OCR_PDF_ImageandCaptiontoMD.html)
 
 ---
